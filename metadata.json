@@ -1,0 +1,7 @@
+{
+  "name": "TradingView Markets",
+  "description": "Real-time global markets overview, indices, stock screener, sector performance, market sentiment, and community trading ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
